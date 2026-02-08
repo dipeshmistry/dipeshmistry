@@ -16,27 +16,15 @@ I am a Software Engineer with over **4 years of experience** specializing in bui
 * **Security:** Implementing robust **OAuth 2.0** and **SSO** integrations for enterprise-grade authentication.
 
 ---
-
 ### 🛠 **Tech Stack**
 
 | Category | Tools & Technologies |
-| --- | --- |
-| **AI & Generative AI** | LangGraph, LangChain, RAG, Prompt Engineering, FAISS, Chroma 
-
- |
-| **Languages & Frameworks** | C# (.NET Core 6+), Python, Angular, ASP.NET MVC, JavaScript 
-
- |
-| **Cloud & DevOps** | Google Cloud Console, AWS (S3, EC2, Lambda), Docker, Redis, Git 
-
- |
-| **Databases** | Firestore (NoSQL), SQL Server, MySQL 
-
- |
-| **Security** | OAuth 2.0, JWT, SSO, Data Encryption 
-
- |
-
+| :--- | :--- |
+| **AI & Generative AI** | [cite_start]LangGraph, LangChain, RAG, Prompt Engineering, FAISS, Chroma [cite: 11, 29] |
+| **Languages & Frameworks** | [cite_start]C# (.NET Core 6+), Python, Angular, ASP.NET MVC, JavaScript [cite: 4, 12, 16, 23, 28, 29] |
+| **Cloud & DevOps** | [cite_start]Google Cloud Console, AWS (S3, EC2, Lambda), Docker, Redis, Git  |
+| **Databases** | [cite_start]Firestore (NoSQL), SQL Server, MySQL  |
+| **Security** | [cite_start]OAuth 2.0, JWT, SSO, Data Encryption [cite: 16, 29] |
 ---
 
 ### 📈 **Featured Projects**
