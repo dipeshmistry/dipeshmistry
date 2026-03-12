@@ -1,8 +1,8 @@
 # Hi there, I'm Dipesh Mistry! 👋
 
-### **Senior Software Engineer | GenAI Enthusiast | Cloud Architect**
+### **Senior Software Engineer | Dotnet |GenAI Enthusiast | Cloud Architect**
 
-I am a Software Engineer with over **4 years of experience** specializing in building scalable backend systems, secure data tools, and advanced AI-driven applications. Currently, I am focused on architecting **Multi-Agent Systems** and **RAG pipelines** to solve complex business automation challenges.
+I am a Software Engineer with over **5 years of experience** specializing in building scalable backend systems with Dotnet, secure data tools, and advanced AI-driven applications. Currently, I am focused on architecting **Multi-Agent Systems** and **RAG pipelines** to solve complex business automation challenges.
 
 ---
 
